@@ -6,15 +6,15 @@
 
 | 구분 | 주소 |
 |---|---|
-| 배포 사이트 (GitHub Pages) | https://jaeyunan.github.io/03-pjt/ |
-| GitHub 저장소 | https://github.com/JaeYunAn/03-pjt |
+| 배포 사이트 (GitHub Pages) | [jaeyunan.github.io/03-pjt](https://jaeyunan.github.io/03-pjt/) |
+| GitHub 저장소 | [JaeYunAn/03-pjt](https://github.com/JaeYunAn/03-pjt) |
 
 
 배포 사이트는 `index.html`에서 메인 페이지(`06-main.html`)로 바로 이동합니다.
 
 ## 실행 방법
 
-1. 배포 사이트(https://jaeyunan.github.io/03-pjt/)에서 바로 확인하거나, 이 저장소를 내려받습니다.
+1. [배포 사이트](https://jaeyunan.github.io/03-pjt/)에서 바로 확인하거나, 이 저장소를 내려받습니다.
 2. 내려받은 경우 `06-main.html`(또는 `index.html`)을 크롬으로 엽니다. (VS Code Live Server 사용 시 "Open with Live Server")
 3. Bootstrap, 아이콘, 웹폰트를 CDN에서 불러오므로 인터넷 연결이 필요합니다.
 4. 모바일 화면은 개발자 도구(F12) → `Ctrl + Shift + M` → 너비 412px로 확인합니다.
